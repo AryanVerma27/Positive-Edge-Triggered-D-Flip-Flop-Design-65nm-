@@ -35,6 +35,6 @@ The repository includes simulation waveforms demonstrating:
 3.  **Power Analysis:** Current draw during switching events.
 
 ---
-**Authors:** Ganesh Manjunath & Aryan Verma  
+**Authors:**  Aryan Verma  
 **Course:** EECT / CE 6325 – VLSI Design  
 **Instructor:** Prof. Carl Sechen
